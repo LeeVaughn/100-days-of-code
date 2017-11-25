@@ -1,30 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: November 24, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on my Build a Personal Porfolio project for freeCodeCamp. Sketched out a design and began work on the top navigation bar and header section.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I started this project previously but I quickly hit a block as I didn't feel like I had the knowledge to code what I was seeing in my head. I feel much more confident now after completing a few more courses on Treehouse.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/e9e44a10f5346d30b613f5f5e8b2c0e242c0ae7d">index.html</a> and <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/f5bf835c495d9bf6b517b7e444de2a06ed502265">styles.css</a>
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
