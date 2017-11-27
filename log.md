@@ -15,3 +15,11 @@
 **Thoughts:** It is tough to only spend an hour or so working on this project. I am anxious to get it done and start working on more from freeCodeCamp but I need something to work on for my 100 days so I may as well break this project up into smaller chunks.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/d9b160ea5f3182f7c08d81086a429fed5ee00d56#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/62c331308f79aeab2a6f1a9bd1ae736ae309a252">styles.css</a>
+
+### Day 3: November 26, 2017
+
+**Today's Progress**: Continued working on my Portfolio page. Added classes and styles to the Project section so that the examples would float side by side. Changed to overall layout to go with a white background throughout instead of different colors for different sections. Tried to work on the Contact section but couldn't decide on a design I liked.
+
+**Thoughts:** The top part of the page is coming along pretty well but I am not sure what I want to do for the contact page. I tried experimenting with forms but I wasn't happy with the look. I think I am going to go with some text and buttons for contact options like Twitter, GitHub, email etc. but I am not super sold on that idea.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/71ca1bbccc342d045ca7232fd80527cc83e6c6e4#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/4f0cd54c76f329f286e1c1d726927603fc93a1d4#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a>
