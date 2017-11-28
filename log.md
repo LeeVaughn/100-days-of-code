@@ -23,3 +23,11 @@
 **Thoughts:** The top part of the page is coming along pretty well but I am not sure what I want to do for the contact page. I tried experimenting with forms but I wasn't happy with the look. I think I am going to go with some text and buttons for contact options like Twitter, GitHub, email etc. but I am not super sold on that idea.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/71ca1bbccc342d045ca7232fd80527cc83e6c6e4#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/4f0cd54c76f329f286e1c1d726927603fc93a1d4#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a>
+
+### Day 4: November 27, 2017
+
+**Today's Progress**: Continued working on my portfolio page by styling the main-header, about-me, and projects sections.
+
+**Thoughts:** I like how the top parts of the page are turning out, now I just need to figure out the contact section.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/616003bc8f0950018f301d917df0858461be93be#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/4e4d339311b7c1f51e7e3587c7d83205aa37ff84#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a>
