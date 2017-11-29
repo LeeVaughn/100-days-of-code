@@ -31,3 +31,11 @@
 **Thoughts:** I like how the top parts of the page are turning out, now I just need to figure out the contact section.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/616003bc8f0950018f301d917df0858461be93be#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/4e4d339311b7c1f51e7e3587c7d83205aa37ff84#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a>
+
+### Day 5: November 28, 2017
+
+**Today's Progress**: Added contact section to Portfolio page and started working on link styles.
+
+**Thoughts:** Project is almost finished. I just need to add links, a footer, and maybe a floating nav bar.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/8a416b9d64032a98ae72fd2edba2029e3f9fa981#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/7318cc8e1576601188c18ca6f6f09c449bfaab85#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a>
