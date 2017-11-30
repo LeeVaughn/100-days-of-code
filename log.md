@@ -39,3 +39,11 @@
 **Thoughts:** Project is almost finished. I just need to add links, a footer, and maybe a floating nav bar.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/8a416b9d64032a98ae72fd2edba2029e3f9fa981#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/7318cc8e1576601188c18ca6f6f09c449bfaab85#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a>
+
+### Day 6: November 29, 2017
+
+**Today's Progress**: Finally finished by fCC Portfolio Project. I made a ton of changes but some of the highlights include adding links to the top nav bar, adding a floating return to top button using JavaScript, creating a footer, and adding media queries to make the page more responsive to different screen sizes.
+
+**Thoughts:** Overall, I am very happy with how this project turned out. I look forward to revising the project after I learn more. I am sure the CSS could be streamlined but I was just happy to get everything to work the way I wanted it to.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/7a1a382ccea488e8bdfe4b8c823f949c9689e65c#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/72d5e574def074cbb45e1197598593889b4bce45#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a> and <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/05d6463e746691506539afd3eab0fbcfcfdeb0c7#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
