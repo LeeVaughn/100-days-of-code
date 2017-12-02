@@ -54,10 +54,12 @@
 
 **Thoughts:** I noticed when I added my tree that there were some problems with the file, but I thought I would wait to see if they were fixed when the PR for my tree was merged. The problems continued with new trees so I thought I would make a PR offering a fix.
 
-**Link to work:** <a href="### Day 6: November 29, 2017
-
-**Today's Progress**: Finally finished by fCC Portfolio Project. I made a ton of changes but some of the highlights include adding links to the top nav bar, adding a floating return to top button using JavaScript, creating a footer, and adding media queries to make the page more responsive to different screen sizes.
-
-**Thoughts:** Overall, I am very happy with how this project turned out. I look forward to revising the project after I learn more. I am sure the CSS could be streamlined but I was just happy to get everything to work the way I wanted it to.
-
 **Link to work:** <a href="https://github.com/mkmckenzie/holiday-trees/pull/10">Pull Request</a> for the holiday-trees repo.
+
+### Day 8: December 1, 2017
+
+**Today's Progress**: Fixed an error in my Portfolio project where I inadvertantly removed the padding around the contact for on devices smaller than 768 pixels. Continued working on Basic JavaScript at Treehouse.
+
+**Thoughts:** I have been pleasantly surprised by how easily JavaScript has been going and how much I remember from the first time around.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/e9f1404cd358107edcdc2570eea8f62395245aac#diff-4e7bb40584b55a44f4657b188986bff4">scripts.js</a>
