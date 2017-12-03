@@ -63,3 +63,11 @@
 **Thoughts:** I have been pleasantly surprised by how easily JavaScript has been going and how much I remember from the first time around.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/Portfolio-Project/commit/e9f1404cd358107edcdc2570eea8f62395245aac#diff-4e7bb40584b55a44f4657b188986bff4">scripts.js</a>
+
+### Day 9: December 2, 2017
+
+**Today's Progress**: Continued working on JavaScript. Made a small true/false quiz to practice.
+
+**Thoughts:** I am actually finding myself enjoying JavaScript, which was a far cry from my first experience learning it.
+
+**Link to work:** Link to a <a href="https://twitter.com/DLVProgramming/status/937192149644230656">tweet</a> with a screenshot of the quiz I made.
