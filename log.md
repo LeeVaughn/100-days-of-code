@@ -71,3 +71,19 @@
 **Thoughts:** I am actually finding myself enjoying JavaScript, which was a far cry from my first experience learning it.
 
 **Link to work:** Link to a <a href="https://twitter.com/DLVProgramming/status/937192149644230656">tweet</a> with a screenshot of the quiz I made.
+
+### Day 10: December 3, 2017
+
+**Today's Progress**: Worked on JavaScript exercise for Treehouse.
+
+**Thoughts:** Still going well.
+
+**Link to work:** N/A
+
+### Day 11: December 4, 2017
+
+**Today's Progress**: Finished up Basic JavaScript on Treehouse and completed final exercise.
+
+**Thoughts:** Things got a little more complicated once we got into Functions but so far so good.
+
+**Link to work:** N/A
