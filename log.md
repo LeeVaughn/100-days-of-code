@@ -87,3 +87,11 @@
 **Thoughts:** Things got a little more complicated once we got into Functions but so far so good.
 
 **Link to work:** N/A
+
+### Day 12: December 5, 2017
+
+**Today's Progress**: Worked on Day 1 of JavaScript 30, which was to build an drum kit.
+
+**Thoughts:** When I heard about this course that was centered around 30 different JavaScript projects I was excited, but that quickly faded after doing the first project. All of the HTML and CSS is provided for you and you basically just follow along as he ads the JavaScript. For my current level of knowledge is it fairly advanced stuff and there isn't a lot of explaining of what he is doing. 
+
+**Link to work:** N/A
