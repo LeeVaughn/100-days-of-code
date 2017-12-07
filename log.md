@@ -95,3 +95,11 @@
 **Thoughts:** When I heard about this course that was centered around 30 different JavaScript projects I was excited, but that quickly faded after doing the first project. All of the HTML and CSS is provided for you and you basically just follow along as he ads the JavaScript. For my current level of knowledge is it fairly advanced stuff and there isn't a lot of explaining of what he is doing. 
 
 **Link to work:** N/A
+
+### Day 13: December 6, 2017
+
+**Today's Progress**: Worked on Day 1 of Advent of Code. Thought I had an idea for how to figure out the first puzzle. Turned out I was wrong.
+
+**Thoughts:** I was hoping I could do some of the early days which were supposedly "easier" but they are way more complicated that I am ready for at this time. 
+
+**Link to work:** N/A
