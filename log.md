@@ -103,3 +103,11 @@
 **Thoughts:** I was hoping I could do some of the early days which were supposedly "easier" but they are way more complicated that I am ready for at this time. 
 
 **Link to work:** N/A
+
+### Day 14: December 7, 2017
+
+**Today's Progress**: Started working on a hot and cold style guessing game to practice my JavaScript. The game will be called "Its Getting Hot in Here!".
+
+**Thoughts:** I was trying to come up with something to practice for JavaScript and I came up with this idea using mainly if/else statements. 
+
+**Link to work:** <a href="https://github.com/LeeVaughn/Hot-In-Here-Game/commit/e066d029381eb942783d39d85f406dc5c62d9e4e#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
