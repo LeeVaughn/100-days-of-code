@@ -111,3 +111,11 @@
 **Thoughts:** I was trying to come up with something to practice for JavaScript and I came up with this idea using mainly if/else statements. 
 
 **Link to work:** <a href="https://github.com/LeeVaughn/Hot-In-Here-Game/commit/e066d029381eb942783d39d85f406dc5c62d9e4e#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
+
+### Day 15: December 8, 2017
+
+**Today's Progress**: Continued working on my Hot in Here game.
+
+**Thoughts:** Everything is coming along well but once I learn more I am sure I will find a way to condense the code down into fewer operations. 
+
+**Link to work:** <a href="https://github.com/LeeVaughn/Hot-In-Here-Game/commit/29addc649cd27addb4db2a93e2241ca1ba034c41#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
