@@ -119,3 +119,11 @@
 **Thoughts:** Everything is coming along well but once I learn more I am sure I will find a way to condense the code down into fewer operations. 
 
 **Link to work:** <a href="https://github.com/LeeVaughn/Hot-In-Here-Game/commit/29addc649cd27addb4db2a93e2241ca1ba034c41#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
+
+### Day 16: December 9, 2017
+
+**Today's Progress**: Continued working on my Hot in Here game.
+
+**Thoughts:** Started learning about Switch functions yesterday. I think I might be able to accomplish the same thing easier with Switch functions but at this point I am getting close to finishing the project and I don't want to basically start over. I may try to do a similar project with Switch some other time. 
+
+**Link to work:** <a href="https://github.com/LeeVaughn/Hot-In-Here-Game/commit/a0e266538422fa8df2e842a17fff9cef12d9420c#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
