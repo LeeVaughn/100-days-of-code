@@ -127,3 +127,11 @@
 **Thoughts:** Started learning about Switch functions yesterday. I think I might be able to accomplish the same thing easier with Switch functions but at this point I am getting close to finishing the project and I don't want to basically start over. I may try to do a similar project with Switch some other time. 
 
 **Link to work:** <a href="https://github.com/LeeVaughn/Hot-In-Here-Game/commit/a0e266538422fa8df2e842a17fff9cef12d9420c#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
+
+### Day 17: December 10, 2017
+
+**Today's Progress**: Finished the basic version of the hot and cold game.
+
+**Thoughts:** I was able to get the game to work the way I initially planned it. I have few things I would like to tweak but since the purpose of the game was to practice my JavaScript and the JS is finished I will probably wait and work on it once I am able to make a proper HTML interface. 
+
+**Link to work:** <a href="https://github.com/LeeVaughn/Hot-In-Here-Game/commit/7ebcca652a8232b57acd2da826fccd5c21a31a07#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
