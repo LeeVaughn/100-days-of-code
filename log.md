@@ -135,3 +135,11 @@
 **Thoughts:** I was able to get the game to work the way I initially planned it. I have few things I would like to tweak but since the purpose of the game was to practice my JavaScript and the JS is finished I will probably wait and work on it once I am able to make a proper HTML interface. 
 
 **Link to work:** <a href="https://github.com/LeeVaughn/Hot-In-Here-Game/commit/7ebcca652a8232b57acd2da826fccd5c21a31a07#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
+
+### Day 18: December 11, 2017
+
+**Today's Progress**: Worked on some JavaScript lessons at fCC.
+
+**Thoughts:** Not sure if the questions just weren't wordly clearly but my brain felt like mush today. Took me much longer to solve problems than is usually does. 
+
+**Link to work:** <a href="https://www.freecodecamp.org/leevaughn">Link</a> to fCC profile showing lessons completed on 12/11.
