@@ -143,3 +143,11 @@
 **Thoughts:** Not sure if the questions just weren't wordly clearly but my brain felt like mush today. Took me much longer to solve problems than is usually does. 
 
 **Link to work:** <a href="https://www.freecodecamp.org/leevaughn">Link</a> to fCC profile showing lessons completed on 12/11.
+
+### Day 19: December 12, 2017
+
+**Today's Progress**: Worked on Treehouse lessons including a practice exercise to style a website including floats.
+
+**Thoughts:** Been a bit since I did much with CSS but happy to know the info is still in there. Floats used to seem tricky but they are getting easier. 
+
+**Link to work:** <a href="https://teamtreehouse.com/workspaces/33217872#">Workspace</a>.
