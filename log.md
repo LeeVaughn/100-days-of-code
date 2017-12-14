@@ -151,3 +151,11 @@
 **Thoughts:** Been a bit since I did much with CSS but happy to know the info is still in there. Floats used to seem tricky but they are getting easier. 
 
 **Link to work:** <a href="https://teamtreehouse.com/workspaces/33217872#">Workspace</a>.
+
+### Day 20: December 13, 2017
+
+**Today's Progress**: Practiced styling elements using relative, absolute, and fixed positioning.
+
+**Thoughts:** Positioning elements with CSS is starting to make more and more sense. 
+
+**Link to work:** N/A
