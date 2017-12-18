@@ -175,3 +175,11 @@
 **Thoughts:** Still happy with the amount of progress I am making with JavaScript the 2nd time around. 
 
 **Link to work:** N/A
+
+### Day 23: December 18, 2017
+
+**Today's Progress**: Solved the first challenge for the freeCodeCamp Basic Algorithm Scripting section.
+
+**Thoughts:** Had a couple of days where I only worked on lessons so I didn't count those towards my 100 Days of Code. 
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/b1f2c5907f40652c345f9f48225f40db1fd26e0f#diff-d23e3b2f4f02e16ff59aaa1d863ad8b8">reverse-string.js</a>
