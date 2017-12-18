@@ -159,3 +159,19 @@
 **Thoughts:** Positioning elements with CSS is starting to make more and more sense. 
 
 **Link to work:** N/A
+
+### Day 21: December 14, 2017
+
+**Today's Progress**: Worked on an idea I had for Advent of Code. Still no luck.
+
+**Thoughts:** I feel like I am close to figuring this one out. 
+
+**Link to work:** N/A
+
+### Day 22: December 15, 2017
+
+**Today's Progress**: Worked on Object Oriented JavaScript
+
+**Thoughts:** Still happy with the amount of progress I am making with JavaScript the 2nd time around. 
+
+**Link to work:** N/A
