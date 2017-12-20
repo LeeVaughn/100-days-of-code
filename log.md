@@ -183,3 +183,11 @@
 **Thoughts:** Had a couple of days where I only worked on lessons so I didn't count those towards my 100 Days of Code. 
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/b1f2c5907f40652c345f9f48225f40db1fd26e0f#diff-d23e3b2f4f02e16ff59aaa1d863ad8b8">reverse-string.js</a>
+
+### Day 24: December 19, 2017
+
+**Today's Progress**: Solved the second challenge for the freeCodeCamp Basic Algorithm Scripting section. Also ran thru reversing a string again to reinforce the solution and did a little practice with header elements and main nav bars.
+
+**Thoughts:** I had a pretty good idea for how to solve this challenge right from the get go but I did have to look up a few things to refresh my memory. I came up with a solution that returned all the correct answers but for some reason didn't pass the test so I had to come up with another solution that was similar to the first except it counted down instead of counted up. 
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/2ed930da9cc13db1847346343e7ee90cd905dfdc#diff-ac3407575a09a4102cb0baf0e6fc7d30">factorialize-number.js</a>
