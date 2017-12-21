@@ -199,3 +199,11 @@
 **Thoughts:** I was thrilled at how quickly this one came together. Much of the solution involved reversing a string like we did in the first challenge. From there it was just a matter of figuring out how to remove the non-alphanumeric characters.  
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/blob/master/check-palindromes.js">check-palindromes.js</a>
+
+### Day 26: December 21, 2017
+
+**Today's Progress**: Solved the 4th Basic Algorithm Challenge from freeCodeCamp, which was to Find the Longest Word in a String. Also practiced some basic Flexbox.
+
+**Thoughts:** I feel like these are going well. I still have to look up a fair bit of the code but at least I know what I am looking for. I do need to work more on functions though as I still don't understand them as well as I would like to. Also worked on Flexbox and practiced some basic designs.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/0fb0fd41598c2297dbab7b3092f04f55e4c98093#diff-a6077855d7d5ebc2dad0d43d892db9e7">longest-word-in-string.js</a>
