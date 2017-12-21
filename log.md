@@ -191,3 +191,11 @@
 **Thoughts:** I had a pretty good idea for how to solve this challenge right from the get go but I did have to look up a few things to refresh my memory. I came up with a solution that returned all the correct answers but for some reason didn't pass the test so I had to come up with another solution that was similar to the first except it counted down instead of counted up. 
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/2ed930da9cc13db1847346343e7ee90cd905dfdc#diff-ac3407575a09a4102cb0baf0e6fc7d30">factorialize-number.js</a>
+
+### Day 25: December 20, 2017
+
+**Today's Progress**: Solved the third challenge for the freeCodeCamp Basic Algorithm Scripting section.
+
+**Thoughts:** I was thrilled at how quickly this one came together. Much of the solution involved reversing a string like we did in the first challenge. From there it was just a matter of figuring out how to remove the non-alphanumeric characters.  
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/blob/master/check-palindromes.js">check-palindromes.js</a>
