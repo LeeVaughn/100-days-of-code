@@ -215,3 +215,11 @@
 **Thoughts:** I wish I had a better memory so I could do better at solving these without having to look things up but like I said before at least I usually know what it is I want to look up.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/096aebaf26953c81ac2b54d670aecff99b81bbdf#diff-5a4c40ebdb8c0d0965ffbd8d63d10fb8">title-case-sentence.js</a>
+
+### Day 28: December 23, 2017
+
+**Today's Progress**: Solved the 6th of freeCodeCamp's Basic Algorithms.
+
+**Thoughts:** This was the first time I did the algorithm without the influence of any outside code. I had to run four different functions to sort the different parts of the arrays so the code isn't as efficient as it probably could be but I was happy to be able to come up with all of the code on my own.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/25f0869b0c01ded8617c1746e6f26b685acad84a#diff-e9d2797a130fdffe1b7f53cd32fb0907">return-largest-numbers.js</a>
