@@ -207,3 +207,11 @@
 **Thoughts:** I feel like these are going well. I still have to look up a fair bit of the code but at least I know what I am looking for. I do need to work more on functions though as I still don't understand them as well as I would like to. Also worked on Flexbox and practiced some basic designs.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/0fb0fd41598c2297dbab7b3092f04f55e4c98093#diff-a6077855d7d5ebc2dad0d43d892db9e7">longest-word-in-string.js</a>
+
+### Day 27: December 22, 2017
+
+**Today's Progress**: Solved the 5th of freeCodeCamp's Basic Algorithms.
+
+**Thoughts:** I wish I had a better memory so I could do better at solving these without having to look things up but like I said before at least I usually know what it is I want to look up.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/096aebaf26953c81ac2b54d670aecff99b81bbdf#diff-5a4c40ebdb8c0d0965ffbd8d63d10fb8">title-case-sentence.js</a>
