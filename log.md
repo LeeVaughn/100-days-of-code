@@ -223,3 +223,11 @@
 **Thoughts:** This was the first time I did the algorithm without the influence of any outside code. I had to run four different functions to sort the different parts of the arrays so the code isn't as efficient as it probably could be but I was happy to be able to come up with all of the code on my own.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/25f0869b0c01ded8617c1746e6f26b685acad84a#diff-e9d2797a130fdffe1b7f53cd32fb0907">return-largest-numbers.js</a>
+
+### Day 29: December 24, 2017
+
+**Today's Progress**: Solved the 7th of freeCodeCamp's Basic Algorithms.
+
+**Thoughts:** Tried really hard to solve this one again completely on my own. I was really close to solving it but I couldn't quite get it to work so I had to resort to a Google search. Turns out I was using the wrong syntax for -target.length in conjuction with .substr. I had the idea right but I wasn't formatting it correctly.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/9dec9c0e83b34d1483874cda29ac4573ebf2885b#diff-c39a8aa66335f5fc012eb1a225e59a84">confirm-ending.js</a>
