@@ -226,8 +226,8 @@
 
 ### Day 29: December 24, 2017
 
-**Today's Progress**: Solved the 7th of freeCodeCamp's Basic Algorithms.
+**Today's Progress**: Solved the 7th of freeCodeCamp's Basic Algorithms. Also worked to improve my solution to the 6th challenge by using a loop.
 
-**Thoughts:** Tried really hard to solve this one again completely on my own. I was really close to solving it but I couldn't quite get it to work so I had to resort to a Google search. Turns out I was using the wrong syntax for -target.length in conjuction with .substr. I had the idea right but I wasn't formatting it correctly.
+**Thoughts:** Tried really hard to solve this one again completely on my own. I was really close but I couldn't quite get it to work so I had to resort to a Google search. Turns out I was using the wrong syntax for -target.length in conjuction with .substr. I had the idea right but I wasn't formatting it correctly. I am also right there with the loop for #6 but I can't quite get the last step to work correctly.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/9dec9c0e83b34d1483874cda29ac4573ebf2885b#diff-c39a8aa66335f5fc012eb1a225e59a84">confirm-ending.js</a>
