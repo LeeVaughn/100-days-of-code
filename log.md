@@ -231,3 +231,11 @@
 **Thoughts:** Tried really hard to solve this one again completely on my own. I was really close but I couldn't quite get it to work so I had to resort to a Google search. Turns out I was using the wrong syntax for -target.length in conjuction with .substr. I had the idea right but I wasn't formatting it correctly. I am also right there with the loop for #6 but I can't quite get the last step to work correctly.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/9dec9c0e83b34d1483874cda29ac4573ebf2885b#diff-c39a8aa66335f5fc012eb1a225e59a84">confirm-ending.js</a>
+
+### Day 30: December 26, 2017
+
+**Today's Progress**: Finished the 8th Algorithm in freeCodeCamp's Basic Algorithm section.
+
+**Thoughts:** Worked on this one for over an hour on my own before finally resorting to Google. I was very close but I was missing the .join() function for the return.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/1b8e4cf19d0db3a62e93eb9da6ffc4ba0de7db5b#diff-6bb8908b2df0e2c157fac887fc3c2b69">repeat-string-repeat-string.js</a>
