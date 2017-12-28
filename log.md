@@ -239,3 +239,11 @@
 **Thoughts:** Worked on this one for over an hour on my own before finally resorting to Google. I was very close but I was missing the .join() function for the return.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/1b8e4cf19d0db3a62e93eb9da6ffc4ba0de7db5b#diff-6bb8908b2df0e2c157fac887fc3c2b69">repeat-string-repeat-string.js</a>
+
+### Day 31: December 27, 2017
+
+**Today's Progress**: Finished the 9th Algorithm in freeCodeCamp's Basic Algorithm section.
+
+**Thoughts:** My initial idea was to split the string into individual elements, run a function to compare that string to a length equivilent to num, and then rejoin the string and add "...". Once I realized that num wasn't always a number I knew I needed to go with an If/Else statement.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commits/master/truncate-string.js">truncate-string.js</a>
