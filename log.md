@@ -247,3 +247,11 @@
 **Thoughts:** My initial idea was to split the string into individual elements, run a function to compare that string to a length equivilent to num, and then rejoin the string and add "...". Once I realized that num wasn't always a number I knew I needed to go with an If/Else statement.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commits/master/truncate-string.js">truncate-string.js</a>
+
+### Day 32: December 28, 2017
+
+**Today's Progress**: Submitted two pull requests and started working on Automate the Boring Stuff with Python.
+
+**Thoughts:** Just starting to brush the surface of Python but I am already struck by the similarity to JavaScript and comparable concepts.
+
+**Link to work:** <a href="https://github.com/selftaughtprogrammers/FAQ/pull/2">README.md</a> & <a href="https://github.com/LeeVaughn/resources/commit/76a4feb78b5104940f8e5a83ef64c6a55fe473b4#diff-04c6e90faac2675aa89e2176d2eec7d8">README.md</a>
