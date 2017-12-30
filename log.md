@@ -255,3 +255,11 @@
 **Thoughts:** Just starting to brush the surface of Python but I am already struck by the similarity to JavaScript and comparable concepts.
 
 **Link to work:** <a href="https://github.com/selftaughtprogrammers/FAQ/pull/2">README.md</a> & <a href="https://github.com/LeeVaughn/resources/commit/76a4feb78b5104940f8e5a83ef64c6a55fe473b4#diff-04c6e90faac2675aa89e2176d2eec7d8">README.md</a>
+
+### Day 33: December 29, 2017
+
+**Today's Progress**: Finished the 10th fCC Basic Algorithm and worked on Python w/ Automate the Boring Stuff and The Self-Taught Programmer.
+
+**Thoughts:** I still feel like I am right on the edge of being able to figure out these algorithms w/o searching but I seem to always be missing one thing to tie it all together.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/939e513760530cf1943772af31a0a8e66d1383b4#diff-cb9e03033083dcd3841fbf8a916a09ac">chunky-monkey.js</a>
