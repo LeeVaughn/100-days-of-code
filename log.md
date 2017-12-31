@@ -263,3 +263,11 @@
 **Thoughts:** I still feel like I am right on the edge of being able to figure out these algorithms w/o searching but I seem to always be missing one thing to tie it all together.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/939e513760530cf1943772af31a0a8e66d1383b4#diff-cb9e03033083dcd3841fbf8a916a09ac">chunky-monkey.js</a>
+
+### Day 34: December 30, 2017
+
+**Today's Progress**: Finished the 11th and 12th freeCodeCamp Basic Algorithm.
+
+**Thoughts:** Solved #11 completely on my own but realized after that I made it harder than it had to be by using to different variables to end up with the same number as the original howMany. #12 was harder and I had to resort to Google to figure out how to do the for if loop.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/0e6c049d196f974e3d42f59729946f83f4069b46#diff-875cae5bd17730c46ce144750b85082d">slasher-flick.js</a> and <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/2c81f270b66dafff907bf363fef114337e724424#diff-bdac6481735676e63350e0fc9cc40db4">mutations.js</a>
