@@ -271,3 +271,11 @@
 **Thoughts:** Solved #11 completely on my own but realized after that I made it harder than it had to be by using to different variables to end up with the same number as the original howMany. #12 was harder and I had to resort to Google to figure out how to do the for if loop.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/0e6c049d196f974e3d42f59729946f83f4069b46#diff-875cae5bd17730c46ce144750b85082d">slasher-flick.js</a> and <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/2c81f270b66dafff907bf363fef114337e724424#diff-bdac6481735676e63350e0fc9cc40db4">mutations.js</a>
+
+### Day 35: December 31, 2017
+
+**Today's Progress**: Finished the 13th freeCodeCamp Basic Algorithm.
+
+**Thoughts:** This one ended up being much easier than I thought. I was working on some complexed stuff based on examples related to .filter() but it turns out that I only needed to filter based on boolean.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/98541ed045a6d0b89b42a6216af60372eb777532#diff-2f5dc4d7a8ffff4b0ca11953401537ce">falsey-bouncer.js</a>
