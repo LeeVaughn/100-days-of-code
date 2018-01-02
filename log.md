@@ -279,3 +279,11 @@
 **Thoughts:** This one ended up being much easier than I thought. I was working on some complexed stuff based on examples related to .filter() but it turns out that I only needed to filter based on boolean.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/98541ed045a6d0b89b42a6216af60372eb777532#diff-2f5dc4d7a8ffff4b0ca11953401537ce">falsey-bouncer.js</a>
+
+### Day 36: January 1, 2018
+
+**Today's Progress**: Uploaded a solution for the 14th freeCodeCamp Basic Algorithm.
+
+**Thoughts:** Happy New Year! This whole series of problems has been a big reminder of how much more I still need to work on my various JavaScript loops.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/4bdec00c6291fa61ebe92007d9be99fb37fbc157#diff-b3bc914660c36b3c7d8afc6af21c3823">seek-destroy.js</a>
