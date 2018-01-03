@@ -287,3 +287,11 @@
 **Thoughts:** Happy New Year! This whole series of problems has been a big reminder of how much more I still need to work on my various JavaScript loops.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/4bdec00c6291fa61ebe92007d9be99fb37fbc157#diff-b3bc914660c36b3c7d8afc6af21c3823">seek-destroy.js</a>
+
+### Day 37: January 2, 2018
+
+**Today's Progress**: Uploaded a solution for the 15th freeCodeCamp Basic Algorithm.
+
+**Thoughts:** I had to look up a few functions but I was happy to have a clear idea of what I needed to do as soon as I read the challenge.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/ce9a5b7d7ec13bc7cf8e92d7e5bee92382d99269#diff-40bd98597c77b3ed0ef70ef73119b891">where-i-belong.js</a>
