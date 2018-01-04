@@ -295,3 +295,11 @@
 **Thoughts:** I had to look up a few functions but I was happy to have a clear idea of what I needed to do as soon as I read the challenge.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/ce9a5b7d7ec13bc7cf8e92d7e5bee92382d99269#diff-40bd98597c77b3ed0ef70ef73119b891">where-i-belong.js</a>
+
+### Day 38: January 3, 2018
+
+**Today's Progress**: Uploaded a solution for the 16th and final freeCodeCamp Basic Algorithm. Yay!
+
+**Thoughts:** This one was super hard for me. I read up on the recommended functions but it still wasn't clear what numbers corresponded to what letters. Even once I started looking at solution that connection wasn't clear. It wasn't until I read <a href="http://www.seth-dehaan.com/2016/01/21/freecodecamp-caesar-s-cipher/">this article</a> that I really understood the ASCII codes and how to solve the problem.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/f3386b53fdc045861e27a24d14a4eecbd026f911#diff-2bd39fada23fdeb1954936aa9184c1f6">caesars-cipher.js</a>
