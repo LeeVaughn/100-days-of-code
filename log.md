@@ -303,3 +303,11 @@
 **Thoughts:** This one was super hard for me. I read up on the recommended functions but it still wasn't clear what numbers corresponded to what letters. Even once I started looking at solution that connection wasn't clear. It wasn't until I read <a href="http://www.seth-dehaan.com/2016/01/21/freecodecamp-caesar-s-cipher/">this article</a> that I really understood the ASCII codes and how to solve the problem.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/basic-algorithm-scripting-freecodecamp/commit/f3386b53fdc045861e27a24d14a4eecbd026f911#diff-2bd39fada23fdeb1954936aa9184c1f6">caesars-cipher.js</a>
+
+### Day 39: January 4, 2018
+
+**Today's Progress**:Started designing and gathering quotes for my random quote generator project.
+
+**Thoughts:** My plan is to make a Heroes of the Storm themed quote generator.
+
+**Link to work:** N/A
