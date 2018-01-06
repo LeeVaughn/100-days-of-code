@@ -311,3 +311,11 @@
 **Thoughts:** My plan is to make a Heroes of the Storm themed quote generator.
 
 **Link to work:** N/A
+
+### Day 40: January 5, 2018
+
+**Today's Progress**:Began intial work on my random quote machine project. Did some basic HTML and CSS and started working on the quote array.
+
+**Thoughts:** I've been focusing on JavaScript so much recently I am going to need to go back and brush up on my Flexbox to finish the layout.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/random-quote-machine">Random Quote Machine repo</a>
