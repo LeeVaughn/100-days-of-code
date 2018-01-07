@@ -319,3 +319,11 @@
 **Thoughts:** I've been focusing on JavaScript so much recently I am going to need to go back and brush up on my Flexbox to finish the layout.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/random-quote-machine">Random Quote Machine repo</a>
+
+### Day 41: January 6, 2018
+
+**Today's Progress**: Pretty much finished up the HTML and CSS for my Random Quote generator.
+
+**Thoughts:** Had to brush up a bit on Flexbox but I pretty much have the page displaying the way that I would like. Now I just need to finish up the array, add the scripts to randomly pick a quote, and then tie it in with the button on the page.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/random-quote-machine/commit/bdc39de42e2198d025e60f2a5ac778a440d28f6e#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/random-quote-machine/commit/7fbf4d65b0de2795c9d843650a699ee2fb145ced#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a>
