@@ -327,3 +327,11 @@
 **Thoughts:** Had to brush up a bit on Flexbox but I pretty much have the page displaying the way that I would like. Now I just need to finish up the array, add the scripts to randomly pick a quote, and then tie it in with the button on the page.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/random-quote-machine/commit/bdc39de42e2198d025e60f2a5ac778a440d28f6e#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/random-quote-machine/commit/7fbf4d65b0de2795c9d843650a699ee2fb145ced#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a>
+
+### Day 42: January 8, 2018
+
+**Today's Progress**: Added some HTML and CSS to allow the option to Tweet quotes. Finished adding the different quotes to the array.
+
+**Thoughts:** Just need to add a few Blaze quotes and then work on the functionality for the quote generator and tweet sharing.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/random-quote-machine/commit/9cbdedf22cb5a226cfe5409d7643dec7978a1997#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/random-quote-machine/commit/32a79761530dc7f61f7ddac1d444c8f5514b4da7#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a> and <a href="https://github.com/LeeVaughn/random-quote-machine/commit/6ee0a53f3f0367c45dc03655d2aa835eeabc548c#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
