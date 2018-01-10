@@ -335,3 +335,11 @@
 **Thoughts:** Just need to add a few Blaze quotes and then work on the functionality for the quote generator and tweet sharing.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/random-quote-machine/commit/9cbdedf22cb5a226cfe5409d7643dec7978a1997#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/random-quote-machine/commit/32a79761530dc7f61f7ddac1d444c8f5514b4da7#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a> and <a href="https://github.com/LeeVaughn/random-quote-machine/commit/6ee0a53f3f0367c45dc03655d2aa835eeabc548c#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
+
+### Day 43: January 9, 2018
+
+**Today's Progress**: Added a new logo, changed some styles to to accomodate the new logo, and started working on the function to randomize quotes.
+
+**Thoughts:** I am getting an error message when I try to generate a quote that appears to be related to the jquery library. I will have to sort that out tomorrow.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/random-quote-machine/commit/f511b59e328fcd28d61a5984c93d116720f2e561#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/random-quote-machine/commit/dffb48392f5159b00c4f2c2be5ec7aa44310313c#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a> and <a href="https://github.com/LeeVaughn/random-quote-machine/commit/948a2e6edae4decb8309c581dff412a643442f39#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
