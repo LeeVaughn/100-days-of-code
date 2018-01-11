@@ -343,3 +343,11 @@
 **Thoughts:** I am getting an error message when I try to generate a quote that appears to be related to the jquery library. I will have to sort that out tomorrow.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/random-quote-machine/commit/f511b59e328fcd28d61a5984c93d116720f2e561#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/random-quote-machine/commit/dffb48392f5159b00c4f2c2be5ec7aa44310313c#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a> and <a href="https://github.com/LeeVaughn/random-quote-machine/commit/948a2e6edae4decb8309c581dff412a643442f39#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
+
+### Day 44: January 10, 2018
+
+**Today's Progress**: Finished up my Quotes of the Storm project including adding the option to share quotes via Twitter and generating the first quote and source upon page load.
+
+**Thoughts:** I am very happy with how this project came out. I would have like to have completed it sooner but this cold slowed me down quite a bit the last couple days.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/quotes-of-the-storm/commit/366f11dc24d8a532163b245ad3639d095a7a05c3#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/quotes-of-the-storm/commit/704204c7521f4e9e1c087e1db76ebaea03356f2a#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a> and <a href="https://github.com/LeeVaughn/quotes-of-the-storm/commit/f85101a81c9480e5ad75be40e1a4cb54555260e5#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
