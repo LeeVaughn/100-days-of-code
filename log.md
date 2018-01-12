@@ -351,3 +351,11 @@
 **Thoughts:** I am very happy with how this project came out. I would have like to have completed it sooner but this cold slowed me down quite a bit the last couple days.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/quotes-of-the-storm/commit/366f11dc24d8a532163b245ad3639d095a7a05c3#diff-eacf331f0ffc35d4b482f1d15a887d3b">index.html</a> and <a href="https://github.com/LeeVaughn/quotes-of-the-storm/commit/704204c7521f4e9e1c087e1db76ebaea03356f2a#diff-4e7bb40584b55a44f4657b188986bff4">styles.css</a> and <a href="https://github.com/LeeVaughn/quotes-of-the-storm/commit/f85101a81c9480e5ad75be40e1a4cb54555260e5#diff-db8f629adc6c4c33f29613cfb71a6038">scripts.js</a>
+
+### Day 45: January 11, 2018
+
+**Today's Progress**: Worked a bit on JavaScript arrays.
+
+**Thoughts:** Another slow day thanks to being sick.
+
+**Link to work:** N/A
