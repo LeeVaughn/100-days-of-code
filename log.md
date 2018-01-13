@@ -359,3 +359,11 @@
 **Thoughts:** Another slow day thanks to being sick.
 
 **Link to work:** N/A
+
+### Day 46: January 12, 2018
+
+**Today's Progress**: Started working on Object Literals in JavaScript.
+
+**Thoughts:** Another slow day thanks to being sick.
+
+**Link to work:** N/A
