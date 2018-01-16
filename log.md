@@ -367,3 +367,11 @@
 **Thoughts:** Another slow day thanks to being sick.
 
 **Link to work:** N/A
+
+### Day 47: January 15, 2018
+
+**Today's Progress**: Worked a bit on JavaScript and started planning and prep work for my Local Weather app project.
+
+**Thoughts:** Pretty much took the last two days off to get over the cold that had been dragging me down.
+
+**Link to work:** N/A
