@@ -375,3 +375,11 @@
 **Thoughts:** Pretty much took the last two days off to get over the cold that had been dragging me down.
 
 **Link to work:** N/A
+
+### Day 48: January 65, 2018
+
+**Today's Progress**: Did some lessons on JavaScript and the DOM on Treehouse.
+
+**Thoughts:** I need to start my weather app project tomorrow.
+
+**Link to work:** N/A
