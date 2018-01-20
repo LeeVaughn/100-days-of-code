@@ -376,10 +376,18 @@
 
 **Link to work:** N/A
 
-### Day 48: January 65, 2018
+### Day 48: January 16, 2018
 
 **Today's Progress**: Did some lessons on JavaScript and the DOM on Treehouse.
 
 **Thoughts:** I need to start my weather app project tomorrow.
 
 **Link to work:** N/A
+
+### Day 49: January 19, 2018
+
+**Today's Progress**: Started working on my Local Weather app for freeCodeCamp.
+
+**Thoughts:** Set up initial HTML and CSS for Weather app and started to work on JavaScript.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/local-weather">Local Weather Repository</a>
