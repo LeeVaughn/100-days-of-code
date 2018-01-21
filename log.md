@@ -391,3 +391,11 @@
 **Thoughts:** Set up initial HTML and CSS for Weather app and started to work on JavaScript.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/local-weather">Local Weather Repository</a>
+
+### Day 50: January 20, 2018
+
+**Today's Progress**: Half way there! Continued working on Weather App, mainly focused on JavaScript to import API data and add functions to interpret and display that data.
+
+**Thoughts:** Really happy with how well this project is coming together and how the JavaScript and jQuery is becoming more and more clear.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/local-weather">Local Weather repo</a>
