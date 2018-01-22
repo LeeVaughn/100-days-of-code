@@ -399,3 +399,11 @@
 **Thoughts:** Really happy with how well this project is coming together and how the JavaScript and jQuery is becoming more and more clear.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/local-weather">Local Weather repo</a>
+
+### Day 51: January 21, 2018
+
+**Today's Progress**: Added a toggle slider for Celsius and Fahrenheit.
+
+**Thoughts:** I like the look of the toggle but when I make it smaller it is slightly off center due to a right margin that I can't seem to locate. If I can't fix it I might have to go back to the drawing board on the button or go back to the original text toggle. My plan is to finish the project tomorrow one way or the other.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/local-weather">Local Weather repo</a>
