@@ -407,3 +407,11 @@
 **Thoughts:** I like the look of the toggle but when I make it smaller it is slightly off center due to a right margin that I can't seem to locate. If I can't fix it I might have to go back to the drawing board on the button or go back to the original text toggle. My plan is to finish the project tomorrow one way or the other.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/local-weather">Local Weather repo</a>
+
+### Day 52: January 22, 2018
+
+**Today's Progress**: Finished my Local Weather project
+
+**Thoughts:** I am very happy with how the project turned out. Making the background image and background color change based on the weather turned out to be much easier than I thought it would be.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/local-weather">Local Weather repo</a>
