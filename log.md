@@ -415,3 +415,11 @@
 **Thoughts:** I am very happy with how the project turned out. Making the background image and background color change based on the weather turned out to be much easier than I thought it would be.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/local-weather">Local Weather repo</a>
+
+### Day 53: January 23, 2018
+
+**Today's Progress**: Started working on my Wikipedia View project.
+
+**Thoughts:** Finished all of the HTML and CSS but I still need to do all of the JavaScript.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/wikipedia-viewer">Repo for Wikipedia Viewer</a>
