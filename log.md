@@ -423,3 +423,11 @@
 **Thoughts:** Finished all of the HTML and CSS but I still need to do all of the JavaScript.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/wikipedia-viewer">Repo for Wikipedia Viewer</a>
+
+### Day 54: January 24, 2018
+
+**Today's Progress**: Finished work on my Build a Wikipedia Viewer project.
+
+**Thoughts:** I wasn't able to complete the bonus challenge, which was to add autocompletion to the search bar. I was able to get the autocomplete part to work using Workspaces but it was returning the options in the top left of the screen instead of under the search bar. I was never able to get it to work in CodePen even though the code was the same. I decided to hold off on this user story for the time being and revisit it later.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/wikipedia-viewer">Repo for Wikipedia Viewer</a>
