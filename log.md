@@ -431,3 +431,11 @@
 **Thoughts:** I wasn't able to complete the bonus challenge, which was to add autocompletion to the search bar. I was able to get the autocomplete part to work using Workspaces but it was returning the options in the top left of the screen instead of under the search bar. I was never able to get it to work in CodePen even though the code was the same. I decided to hold off on this user story for the time being and revisit it later.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/wikipedia-viewer">Repo for Wikipedia Viewer</a>
+
+### Day 5%: January 25, 2018
+
+**Today's Progress**: Made some minor improvements to my Random Quote Machine and Local Weather projects.
+
+**Thoughts:** Spent most of the day writing but I did do some light touch up on older projects.
+
+**Link to work:** N/A
