@@ -432,10 +432,18 @@
 
 **Link to work:** <a href="https://github.com/LeeVaughn/wikipedia-viewer">Repo for Wikipedia Viewer</a>
 
-### Day 5%: January 25, 2018
+### Day 55: January 25, 2018
 
 **Today's Progress**: Made some minor improvements to my Random Quote Machine and Local Weather projects.
 
 **Thoughts:** Spent most of the day writing but I did do some light touch up on older projects.
+
+**Link to work:** N/A
+
+### Day 56: January 26, 2018
+
+**Today's Progress**: Worked on JavaScript and the DOM lessons at Treehouse.
+
+**Thoughts:** Not the most productive day but I did inquire about two potential work leads so that is good.
 
 **Link to work:** N/A
