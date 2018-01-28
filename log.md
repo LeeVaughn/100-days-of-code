@@ -447,3 +447,11 @@
 **Thoughts:** Not the most productive day but I did inquire about two potential work leads so that is good.
 
 **Link to work:** N/A
+
+### Day 57: January 27, 2018
+
+**Today's Progress**: Continued working on JavaScript and the DOM lessons at Treehouse.
+
+**Thoughts:** Also completed the first part of #CNC2018's Get a Job Challenge #1.
+
+**Link to work:** N/A
