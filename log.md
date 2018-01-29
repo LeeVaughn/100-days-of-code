@@ -455,3 +455,11 @@
 **Thoughts:** Also completed the first part of #CNC2018's Get a Job Challenge #1.
 
 **Link to work:** N/A
+
+### Day 58: January 28, 2018
+
+**Today's Progress**: Continued working on JavaScript and the DOM lessons at Treehouse.
+
+**Thoughts:** Technically a day off but still got a little work in.
+
+**Link to work:** N/A
