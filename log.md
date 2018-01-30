@@ -463,3 +463,11 @@
 **Thoughts:** Technically a day off but still got a little work in.
 
 **Link to work:** N/A
+
+### Day 59: January 29, 2018
+
+**Today's Progress**: Worked on a bonus practice exercise on JS and the DOM at Treehouse.
+
+**Thoughts:** Also finished the second part of my 1st assignment for #CNC2018 and made a blog post about my Wikipedia Viewer.
+
+**Link to work:** N/A
