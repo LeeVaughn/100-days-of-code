@@ -471,3 +471,11 @@
 **Thoughts:** Also finished the second part of my 1st assignment for #CNC2018 and made a blog post about my Wikipedia Viewer.
 
 **Link to work:** N/A
+
+### Day 60: January 30, 2018
+
+**Today's Progress**: Began work on my Twitch API project.
+
+**Thoughts:** Finished initial HTML and CSS work.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/twitchtv-api">Repo for Twitch API</a>
