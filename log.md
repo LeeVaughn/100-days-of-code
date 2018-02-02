@@ -479,3 +479,19 @@
 **Thoughts:** Finished initial HTML and CSS work.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/twitchtv-api">Repo for Twitch API</a>
+
+### Day 61: January 31, 2018
+
+**Today's Progress**: Continued working on my Twitch API project.
+
+**Thoughts:** Banged my head against the wall for quite a while on this one before I started to figure it out. The fact that you have to now use a workaround API makes almost all of the resources out there for this project fairly useless. Finally started to make some progress by the end of the day.
+
+**Link to work:** N/A
+
+### Day 62: February 1, 2018
+
+**Today's Progress**: Started off slow, but my Twitch project really came along as the day progressed.
+
+**Thoughts:** It took me a while to figure out exactly how to get started with the API but once I got rolling I quickly picked up steam.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/twitchtv-api">Repo for Twitch API</a>
