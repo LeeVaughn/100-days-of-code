@@ -495,3 +495,11 @@
 **Thoughts:** It took me a while to figure out exactly how to get started with the API but once I got rolling I quickly picked up steam.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/twitchtv-api">Repo for Twitch API</a>
+
+### Day 63: February 2, 2018
+
+**Today's Progress**: Finished my Twitch API project and the JavaScript and the DOM course at Treehouse.
+
+**Thoughts:** After a frustrating start I am happy with how the project turned out. I had several issues even once I had the app working fairly well and I was able to solve them all.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/twitchtv-api">Repo for Twitch API</a>
