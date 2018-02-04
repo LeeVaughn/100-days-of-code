@@ -503,3 +503,11 @@
 **Thoughts:** After a frustrating start I am happy with how the project turned out. I had several issues even once I had the app working fairly well and I was able to solve them all.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/twitchtv-api">Repo for Twitch API</a>
+
+### Day 64: February 3, 2018
+
+**Today's Progress**: Solved the first Intermediate Algorithm on fCC, worked on the second assignment for #CNC2018.
+
+**Thoughts:** After some of the struggles I had with the Beginner Algorithms, I was really surprised at how easy the first Intermediate Algorithm seemed. I knew the solution as soon as I read the problem and associated documentation and a few minutes later I was done.
+
+**Link to work:** <a href="https://codepen.io/Alebeard/pen/aqNvzq">Intermediate Algorithm Challenge #1</a>
