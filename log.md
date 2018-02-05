@@ -511,3 +511,11 @@
 **Thoughts:** After some of the struggles I had with the Beginner Algorithms, I was really surprised at how easy the first Intermediate Algorithm seemed. I knew the solution as soon as I read the problem and associated documentation and a few minutes later I was done.
 
 **Link to work:** <a href="https://codepen.io/Alebeard/pen/aqNvzq">Intermediate Algorithm Challenge #1</a>
+
+### Day 65: February 4, 2018
+
+**Today's Progress**: Solved the second Intermediate Algorithm on fCC and worked on my Linkedin profile for #CNC2018.
+
+**Thoughts:** I thought I had an idea for this one using for loops and if/else statements but it didn't work out so I had to come up with a different solution. My Linkedin profile is coming along nicely but it sure is a lot of work.
+
+**Link to work:** <a href="https://codepen.io/Alebeard/pen/yvOgbb">Intermediate Algorithm Challenge #2</a>
