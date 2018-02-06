@@ -519,3 +519,11 @@
 **Thoughts:** I thought I had an idea for this one using for loops and if/else statements but it didn't work out so I had to come up with a different solution. My Linkedin profile is coming along nicely but it sure is a lot of work.
 
 **Link to work:** <a href="https://codepen.io/Alebeard/pen/yvOgbb">Intermediate Algorithm Challenge #2</a>
+
+### Day 66: February 5, 2018
+
+**Today's Progress**: Solved the third Intermediate Algorithm.
+
+**Thoughts:** This was a lot harder than the previous two in large part because it gives you some "helpful links" that aren't actually necessary. My first instinct was to create seperate arrays for roman numerals and regular numbers and then run loops over them and that turned out to actually be the answer.
+
+**Link to work:** <a href="https://codepen.io/Alebeard/pen/yvOgbb">Intermediate Algorithm Challenge #2</a>
