@@ -526,4 +526,12 @@
 
 **Thoughts:** This was a lot harder than the previous two in large part because it gives you some "helpful links" that aren't actually necessary. My first instinct was to create seperate arrays for roman numerals and regular numbers and then run loops over them and that turned out to actually be the answer.
 
-**Link to work:** <a href="https://codepen.io/Alebeard/pen/yvOgbb">Intermediate Algorithm Challenge #2</a>
+**Link to work:** <a href="https://codepen.io/Alebeard/pen/yvOgbb">Intermediate Algorithm Challenge #3</a>
+
+### Day 67: February 6, 2018
+
+**Today's Progress**: Solved the fourth Intermediate Algorithm and made good progress on the fifth.
+
+**Thoughts:** Almost got two algorithms done today but couldn't quite figure out the second. It works for lower case but not for upper case. Will figure it out tomorrow.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp/blob/master/wherefore-art-thou.js">WhereFore Art Thou</a>
