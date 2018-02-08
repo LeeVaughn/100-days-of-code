@@ -535,3 +535,11 @@
 **Thoughts:** Almost got two algorithms done today but couldn't quite figure out the second. It works for lower case but not for upper case. Will figure it out tomorrow.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp/blob/master/wherefore-art-thou.js">WhereFore Art Thou</a>
+
+### Day 68: February 7, 2018
+
+**Today's Progress**: Finished the fifth and sixth intermediate algorithm and worked a bit on CSS Selectors at Treehouse.
+
+**Thoughts:** I was hoping to finish CSS Selectors today but I did not.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm repo/a>
