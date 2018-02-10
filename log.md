@@ -543,3 +543,19 @@
 **Thoughts:** I was hoping to finish CSS Selectors today but I did not.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm repo/a>
+
+### Day 69: February 8, 2018
+
+**Today's Progress**: Went back over some of my old projects in preparation for Demo Day on Saturday.
+
+**Thoughts:** Wasn't feeling great so took a good portion of the day off.
+
+**Link to work:** N/A
+
+### Day 70: February 9, 2018
+
+**Today's Progress**: Finished CSS Selectors and went over a JavaScript and the DOM practice exercise.
+
+**Thoughts:** I was pleasantly surprised at how well I did with the DOM exercise considering it has over a week since I finished that module and I didn't feel like it clicked all that well in the first place.
+
+**Link to work:** N/A
