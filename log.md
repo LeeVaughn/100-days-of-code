@@ -559,3 +559,19 @@
 **Thoughts:** I was pleasantly surprised at how well I did with the DOM exercise considering it has over a week since I finished that module and I didn't feel like it clicked all that well in the first place.
 
 **Link to work:** N/A
+
+### Day 71: February 10, 2018
+
+**Today's Progress**: Attended my first ever Demo Day.
+
+**Thoughts:** I didn't present anything but I did a decent job of interacting with people.
+
+**Link to work:** N/A
+
+### Day 72: February 11, 2018
+
+**Today's Progress**: Worked on the 7th intermediate algorithm from freeCodeCamp.
+
+**Thoughts:** I am becoming the master of for loops.
+
+**Link to work:** <a href="https://codepen.io/Alebeard/pen/LQyjdO">DNA Pairing Pen/a>
