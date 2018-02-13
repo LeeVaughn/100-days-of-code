@@ -575,3 +575,11 @@
 **Thoughts:** I am becoming the master of for loops.
 
 **Link to work:** <a href="https://codepen.io/Alebeard/pen/LQyjdO">DNA Pairing Pen/a>
+
+### Day 73: February 12, 2018
+
+**Today's Progress**: Finished two more intermediate algorithms, worked on jQuery at Treehouse and wrote a blog post about my Twitch project.
+
+**Thoughts:** Not a bad day.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
