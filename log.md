@@ -583,3 +583,19 @@
 **Thoughts:** Not a bad day.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
+
+### Day 74: February 13, 2018
+
+**Today's Progress**: Continued working on jQuery at Treehouse.
+
+**Thoughts:** This was our Valentine's Day.
+
+**Link to work:** n/a
+
+### Day 75: February 14, 2018
+
+**Today's Progress**: Finished another intermediate algorithm.
+
+**Thoughts:** Stayed up too late the night before for Valentine's Day and took a long walk so didn't get much done today.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
