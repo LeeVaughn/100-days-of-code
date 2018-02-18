@@ -599,3 +599,28 @@
 **Thoughts:** Stayed up too late the night before for Valentine's Day and took a long walk so didn't get much done today.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
+
+### Day 76: February 15, 2018
+
+**Today's Progress**: Worked on jQuery at Treehouse.
+
+**Thoughts:** Worked on some Treehouse lessons and wrote two articles.
+
+**Link to work:** n/a
+
+### Day 77: February 16, 2018
+
+**Today's Progress**: Finished up my jQuery section and started working on Bootstrap.
+
+**Thoughts:** I think I like Bootstrap...
+
+**Link to work:** n/a
+
+### Day 78: February 17, 2018
+
+**Today's Progress**: Continued working on Bootstrap at Treehouse.
+
+**Thoughts:** The Treehouse lessons do a much better job of using the Bootstrap documentation to explain the various concepts.
+
+**Link to work:** n/a
+
