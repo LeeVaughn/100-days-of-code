@@ -618,9 +618,16 @@
 
 ### Day 78: February 17, 2018
 
-**Today's Progress**: Continued working on Bootstrap at Treehouse.
+**Today's Progress**: Continued working on Bootstrap at Treehouse and solved two intermediate algorithms for fCC.
 
 **Thoughts:** The Treehouse lessons do a much better job of using the Bootstrap documentation to explain the various concepts.
 
 **Link to work:** n/a
 
+### Day 79: February 18, 2018
+
+**Today's Progress**: Finished the 2nd Bootstrap section at Treehouse, wrote a blog detailing my Twitch project and solved another intermediate algorithm.
+
+**Thoughts:** Going deap into the code behind my Twitch project after a week or two away from it helped me spot a few errors.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
