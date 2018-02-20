@@ -631,3 +631,11 @@
 **Thoughts:** Going deap into the code behind my Twitch project after a week or two away from it helped me spot a few errors.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
+
+### Day 80: February 19, 2018
+
+**Today's Progress**: Continued working on Bootstrap at Treeehouse and finished another intermediate algorithm.
+
+**Thoughts:** I was hoping to finish the Bootstrap course today but I guess that will have to wait until tomorrow.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
