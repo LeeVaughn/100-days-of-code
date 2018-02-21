@@ -639,3 +639,11 @@
 **Thoughts:** I was hoping to finish the Bootstrap course today but I guess that will have to wait until tomorrow.
 
 **Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
+
+### Day 81: February 20, 2018
+
+**Today's Progress**: Finished up the bootcamp course at Treehouse as well as another fCC algorithm.
+
+**Thoughts:** I was hoping to do multiple algorithms per day but they are very time consuming.
+
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
