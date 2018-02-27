@@ -542,7 +542,7 @@
 
 **Thoughts:** I was hoping to finish CSS Selectors today but I did not.
 
-**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm repo/a>
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm repo</a>
 
 ### Day 69: February 8, 2018
 
@@ -574,7 +574,7 @@
 
 **Thoughts:** I am becoming the master of for loops.
 
-**Link to work:** <a href="https://codepen.io/Alebeard/pen/LQyjdO">DNA Pairing Pen/a>
+**Link to work:** <a href="https://codepen.io/Alebeard/pen/LQyjdO">DNA Pairing Pen</a>
 
 ### Day 73: February 12, 2018
 
@@ -582,7 +582,7 @@
 
 **Thoughts:** Not a bad day.
 
-**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
 
 ### Day 74: February 13, 2018
 
@@ -598,7 +598,7 @@
 
 **Thoughts:** Stayed up too late the night before for Valentine's Day and took a long walk so didn't get much done today.
 
-**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
 
 ### Day 76: February 15, 2018
 
@@ -630,7 +630,7 @@
 
 **Thoughts:** Going deap into the code behind my Twitch project after a week or two away from it helped me spot a few errors.
 
-**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
 
 ### Day 80: February 19, 2018
 
@@ -638,7 +638,7 @@
 
 **Thoughts:** I was hoping to finish the Bootstrap course today but I guess that will have to wait until tomorrow.
 
-**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
 
 ### Day 81: February 20, 2018
 
@@ -646,4 +646,36 @@
 
 **Thoughts:** I was hoping to do multiple algorithms per day but they are very time consuming.
 
-**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo/a>
+**Link to work:** <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
+
+### Day 82: February 21, 2018
+
+**Today's Progress**: Worked on Front End Optimization at Treehouse.
+
+**Thoughts:** n/a
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
+
+### Day 83: February 22, 2018
+
+**Today's Progress**: Finished Front End Optimization at Treehouse.
+
+**Thoughts:** n/a
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
+
+### Day 84: February 23, 2018
+
+**Today's Progress**: Worked on HTML Tables at Treehouse.
+
+**Thoughts:** n/a
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
+
+### Day 85: February 26, 2018
+
+**Today's Progress**: Worked on HTML Audio and Video at Treehouse.
+
+**Thoughts:** n/a
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
