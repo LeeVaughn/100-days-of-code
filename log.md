@@ -679,3 +679,11 @@
 **Thoughts:** n/a
 
 **Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
+
+### Day 86: February 27, 2018
+
+**Today's Progress**: Worked on AJAX at Treehouse.
+
+**Thoughts:** n/a
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
