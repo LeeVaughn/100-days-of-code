@@ -687,3 +687,11 @@
 **Thoughts:** n/a
 
 **Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
+
+### Day 87: February 28, 2018
+
+**Today's Progress**: Worked on AJAX at Treehouse and solved an intermediate algorithm from fCC.
+
+**Thoughts:** n/a
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a> & <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
