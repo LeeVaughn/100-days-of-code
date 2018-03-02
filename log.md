@@ -695,3 +695,11 @@
 **Thoughts:** n/a
 
 **Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a> & <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
+
+### Day 88: March 1, 2018
+
+**Today's Progress**: Finished the AJAX section at Treehouse and solved another intermediate algorithm.
+
+**Thoughts:** Felt like I was right there with today's algorithm but I couldn't quite get it to work without having to result to seeking help.
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a> & <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
