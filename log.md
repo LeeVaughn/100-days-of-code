@@ -703,3 +703,35 @@
 **Thoughts:** Felt like I was right there with today's algorithm but I couldn't quite get it to work without having to result to seeking help.
 
 **Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a> & <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
+
+### Day 89: March 2, 2018
+
+**Today's Progress**: Solved an intermediate algorithm for fCC and wrote a blog post explaining how I solved one of the intermediate algorithms.
+
+**Thoughts:** Explaining my solution really helped reinforce the concepts.
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a> & <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
+
+### Day 90: March 3, 2018
+
+**Today's Progress**: Worked a bit on Object Oriented JavaScript at Treehouse and went to a bootcamp for the upcoming Battleborn Hackathon.
+
+**Thoughts:** I don't think I am ready to invest the time required for a hackathon when I have so many other things that I need to do but it was very interesting to learn about.
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
+
+### Day 91: March 4, 2018
+
+**Today's Progress**: Continued working on Object Oriented JavaScript at Treehouse.
+
+**Thoughts:** I am not sure why but this course just isn't clicking for me.
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
+
+### Day 92: March 5, 2018
+
+**Today's Progress**: Finished the Object Oriented JavaScript course at Treehouse and solved another intermediate algorithm.
+
+**Thoughts:** Gettting close to the end of the Front End course at Treehouse and the Intermediate Algorithm section at fCC. Can't wait to be done with both!
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a> & <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
