@@ -735,3 +735,67 @@
 **Thoughts:** Gettting close to the end of the Front End course at Treehouse and the Intermediate Algorithm section at fCC. Can't wait to be done with both!
 
 **Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a> & <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
+
+### Day 93: March 6, 2018
+
+**Today's Progress**: Finished the Binary Agents algorithm and started working on the Web Accessability Compliance course at Treehouse.
+
+**Thoughts:** n/a
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a> & <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
+
+### Day 94: March 7, 2018
+
+**Today's Progress**: Finished the last two intermediate algorithms from freeCodeCamp and finished the Website Accessability course from Treehouse.
+
+**Thoughts:** Finally done w/ intermediate algorithms!!!
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a> & <a href="https://github.com/LeeVaughn/intermediate-algorithm-scripting-freecodecamp">Intermediate Algorithm Repo</a>
+
+### Day 95: March 8, 2018
+
+**Today's Progress**: Started working on Console Foundations at Treehouse, did some initial work on my Happiness Primer app, and wrote a blog post.
+
+**Thoughts:** Only two more sectiosn to go to finish my Front End course at Treehouse!
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
+
+### Day 96: March 9, 2018
+
+**Today's Progress**: Continued working on the Console Foundations course.
+
+**Thoughts:** n/a
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
+
+### Day 97: March 10, 2018
+
+**Today's Progress**: Continued working on the Console Foundations course.
+
+**Thoughts:** n/a
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
+
+### Day 98: March 11, 2018
+
+**Today's Progress**: Continued working on the Console Foundations course and went to Demo day
+
+**Thoughts:** I can't wait to present my Happiness Primer project at next month's Demo Day.
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
+
+### Day 99: March 12, 2018
+
+**Today's Progress**: Finished up the Console Foundations course at Treehouse.
+
+**Thoughts:** One more course to go!
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
+
+### Day 100: March 13, 2018
+
+**Today's Progress**: Started work on the final course in my Treehouse Front End program, Git Basics.
+
+**Thoughts:** 100 Days of Code complete! I could have been done sooner, but in the beginning I was much more particular about what constituted an hour of coding each day. I didn't count lessons or other tutorials, just actual coding but it seems as if the definition of an hour of coding changed so I adapted with it.
+
+**Link to work:** <a href="https://teamtreehouse.com/dlv">Treehouse Profile</a>
