@@ -12,3 +12,6 @@ Finished the Front End Developer track at Treehouse! Also continued working on m
 
 ### R2D3
 Continued using Git to work on my Portfolio.
+
+### R2D4
+Added some new quotes to my Quote of the Storm app. https://github.com/LeeVaughn/quotes-of-the-storm
