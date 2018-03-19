@@ -15,3 +15,6 @@ Continued using Git to work on my Portfolio.
 
 ### R2D4
 Added some new quotes to my Quote of the Storm app. https://github.com/LeeVaughn/quotes-of-the-storm
+
+### R2D5
+Redid the README for my Quotes of the Storm project to make it more functional and professional. https://github.com/LeeVaughn/quotes-of-the-storm
