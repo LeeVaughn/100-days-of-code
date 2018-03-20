@@ -18,3 +18,6 @@ Added some new quotes to my Quote of the Storm app. https://github.com/LeeVaughn
 
 ### R2D5
 Redid the README for my Quotes of the Storm project to make it more functional and professional. https://github.com/LeeVaughn/quotes-of-the-storm
+
+### R2D6
+Started on the Full Stack JavaScript Techdegree from Treehouse and continued working on my portfolio revamp.
