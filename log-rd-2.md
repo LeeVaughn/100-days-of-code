@@ -21,3 +21,6 @@ Redid the README for my Quotes of the Storm project to make it more functional a
 
 ### R2D6
 Started on the Full Stack JavaScript Techdegree from Treehouse and continued working on my portfolio revamp.
+
+### R2D7
+Went back over some old JavaScript lessons at Treehouse as well as a tutorial on Github Desktop. Also made my week in review blog post.
