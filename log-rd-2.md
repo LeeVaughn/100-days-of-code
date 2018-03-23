@@ -24,3 +24,9 @@ Started on the Full Stack JavaScript Techdegree from Treehouse and continued wor
 
 ### R2D7
 Went back over some old JavaScript lessons at Treehouse as well as a tutorial on Github Desktop. Also made my week in review blog post.
+
+### R2D8
+Continued go over old JS lessons from Treehouse in preparation for my first Techdegree project
+
+### R2D9
+Updated my resume and LinkedIn profile, went over the guidelines for Project 1, downloaded starter files for project and created a GitHub repo for them, and updated the README files for my portfolio and Quotes of the Storm project.
