@@ -30,3 +30,9 @@ Continued go over old JS lessons from Treehouse in preparation for my first Tech
 
 ### R2D9
 Updated my resume and LinkedIn profile, went over the guidelines for Project 1, downloaded starter files for project and created a GitHub repo for them, and updated the README files for my portfolio and Quotes of the Storm project.
+
+### R2D10
+Continued working on my new portfolio page.
+
+### R2D11
+Almost done with my portfolio page. Just need to adjust the layout for different screen sizes.
