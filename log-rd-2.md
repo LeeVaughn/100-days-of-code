@@ -36,3 +36,9 @@ Continued working on my new portfolio page.
 
 ### R2D11
 Almost done with my portfolio page. Just need to adjust the layout for different screen sizes.
+
+### R2D12
+Went back over some old Treehouse JavaScript lessons on arrays and objects.
+
+### R2D13
+Worked on the first Techdegree project. Everything is done except getting the timer to reset when the new quote button is pushed.
