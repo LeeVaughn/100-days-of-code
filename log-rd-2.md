@@ -42,3 +42,6 @@ Went back over some old Treehouse JavaScript lessons on arrays and objects.
 
 ### R2D13
 Worked on the first Techdegree project. Everything is done except getting the timer to reset when the new quote button is pushed.
+
+### R2D14
+Finished up my first Techdegree project. Waiting on some peer reviews, then I will turn it in later tonight. Also worked on my porfolio project to tweak the layout on different screen sizes.
