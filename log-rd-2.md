@@ -45,3 +45,7 @@ Worked on the first Techdegree project. Everything is done except getting the ti
 
 ### R2D14
 Finished up my first Techdegree project. Waiting on some peer reviews, then I will turn it in later tonight. Also worked on my porfolio project to tweak the layout on different screen sizes.
+
+### R2D15
+Submitted my Techdegree project for review and put the last couple finishing touches on my revised portfolio.
+
