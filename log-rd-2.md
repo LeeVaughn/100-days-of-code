@@ -49,3 +49,5 @@ Finished up my first Techdegree project. Waiting on some peer reviews, then I wi
 ### R2D15
 Submitted my Techdegree project for review and put the last couple finishing touches on my revised portfolio.
 
+### R2D16
+Resubmitted by Techdegree project and went back over some old JavaScript and the DOM lessons. Also wrote a blog post discussing the second basic algorithm from freeCodeCamp.
