@@ -50,4 +50,7 @@ Finished up my first Techdegree project. Waiting on some peer reviews, then I wi
 Submitted my Techdegree project for review and put the last couple finishing touches on my revised portfolio.
 
 ### R2D16
-Resubmitted by Techdegree project and went back over some old JavaScript and the DOM lessons. Also wrote a blog post discussing the second basic algorithm from freeCodeCamp.
+Resubmitted my Techdegree project (it didn't include functions for non-existant citations and dates) and went back over some old JavaScript and the DOM lessons. Also wrote a blog post discussing the second basic algorithm from freeCodeCamp.
+
+### R2D17
+Resubmitted my Techdegree project (accidentally tied one of the functions to the year property instead of date) and went back over some old JavaScript and the DOM lessons. Also started working on the first advanced algorithm from fCC.
