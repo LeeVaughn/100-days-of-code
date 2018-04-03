@@ -54,3 +54,6 @@ Resubmitted my Techdegree project (it didn't include functions for non-existant 
 
 ### R2D17
 Resubmitted my Techdegree project (accidentally tied one of the functions to the year property instead of date) and went back over some old JavaScript and the DOM lessons. Also started working on the first advanced algorithm from fCC.
+
+### R2D18
+Resubmitted my Techdegree project - again because I accidently linked to the wrong Github repo. Added a little more styling to portfolio page to make it a little more dynamic and solved an advanced algorithm from fCC. Also finished the JS and the DOM lesson from Treehouse and started going back over some jQuery.
