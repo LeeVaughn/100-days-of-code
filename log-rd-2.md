@@ -57,3 +57,6 @@ Resubmitted my Techdegree project (accidentally tied one of the functions to the
 
 ### R2D18
 Resubmitted my Techdegree project - again because I accidently linked to the wrong Github repo. Added a little more styling to portfolio page to make it a little more dynamic and solved an advanced algorithm from fCC. Also finished the JS and the DOM lesson from Treehouse and started going back over some jQuery.
+
+### R2D19
+Finished jQuery Basics and wrote my weekly recap blog. 
