@@ -60,3 +60,6 @@ Resubmitted my Techdegree project - again because I accidently linked to the wro
 
 ### R2D19
 Finished jQuery Basics and wrote my weekly recap blog. 
+
+### R2D20
+Finished the Debugging JavaScript course and started jQuery Plugins.
