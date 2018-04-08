@@ -63,3 +63,15 @@ Finished jQuery Basics and wrote my weekly recap blog.
 
 ### R2D20
 Finished the Debugging JavaScript course and started jQuery Plugins.
+
+### R2D21
+Finished the jQuery Plugins course and prepared for my 2nd Techdegree project.
+
+### R2D22
+Started the ground work for deploying my portfolio site to a custom domain hosted on Heroku.
+
+### R2D23
+Went back over some basic algorithms and did some interview prep.
+
+### R2D24
+Revised the README files for several of my projects.
