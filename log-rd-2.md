@@ -75,3 +75,6 @@ Went back over some basic algorithms and did some interview prep.
 
 ### R2D24
 Revised the README files for several of my projects.
+
+### R2D25
+Started working on my second Techdegree project.
