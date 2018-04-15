@@ -77,4 +77,23 @@ Went back over some basic algorithms and did some interview prep.
 Revised the README files for several of my projects.
 
 ### R2D25
-Started working on my second Techdegree project.
+Started working on my second Techdegree project
+
+### R2D26
+Continued working on 2nd Techdegree project.
+
+### R2D27
+Continued working on second Techdegree project.
+
+### R2D28
+Submitted second Techdegree project.
+
+### R2D29
+Went back over CSS Selector lessons.
+
+### R2D30
+Started DOM Scripting course.
+
+### R2D31
+Finished DOM Scripting course.
+
