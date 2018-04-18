@@ -99,3 +99,9 @@ Finished DOM Scripting course.
 
 ### R2D32
 Finished Exploring JavaScript Conditionals course and began work on Project 3 for the Treehouse Techdegree.
+
+### R2D33
+Continued working on Project 3.
+
+### R2D34
+Continued working on Project 3.
